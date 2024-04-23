@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.link{
+  font-size: 1.2rem;
+  text-decoration: none;
+   color: white;
+}
+
+.icon{
+  cursor: pointer;
+}
